@@ -1,2 +1,2 @@
 # Webscrapping-Job-site-for-lates-job-posts
-The beauty of beautiful soup is that it can help one get data from various sources. This python file is an automation script using BeautifulSoup to fetch data from job posting site and outputs the latest job openings for Python related roles.
+The beauty of beautiful soup is that it can assist in gathering information from various online sources. This Python script uses BeautifulSoup to fetch data from job posting sites and outputs the most recent job openings for Python-related roles.
